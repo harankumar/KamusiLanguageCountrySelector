@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Kamusi Language/Country Picker</title>
+    <link rel="stylesheet" href="lib/select2.min.css">
+</head>
+
+<body>
+
+<!--BIG TODO: localize label text - how do I do that? -->
+
+<label for="kamusi-userlang">
+    User Language
+</label>
+<select name="kamusi-userlang" id="kamusi-userlang">
+    <!--value is the ISO 693-3 code,
+        text is the language's name for itself-->
+    <!--this should be loaded automatically, without user input
+        the default value will be guessed based on HTTP Headers-->
+    <!--TODO: include all languages in ISO 693-3 table-->
+    <!--TODO: auto-select a userlang-->
+    <!--TODO: when this value selected, change the langname/country options-->
+    <option value="eng">English</option>
+    <option value="spa">Español</option>
+</select>
+
+<br>
+
+
+<label for="kamusi-langname">Language Name</label>
+<select name="kamusi-langname" id="kamusi-langname">
+    <!--value is the ISO 693-3 code,
+        text is the langname in the userlang-->
+    <!--TODO: change text based on userlang-->
+    <option value="eng">English</option>
+    <option value="spa">Spanish</option>
+</select>
+
+<br>
+
+<select name="kamusi-country" id="kamusi-country">
+    <!--value is the ISO 3166-1 alpha-3 digit code,
+        text is the country name in the userlang-->
+    <!--TODO: change text based on userlang-->
+    <option value="AFG">Afghanistan</option>
+    <option value="GBR">United Kingdom of Great Britain and Northern Ireland
+    </option>
+    <option value="ZWE">Zimbabwe</option>
+</select>
+
+<script src="lib/jquery-3.2.1.min.js"></script>
+<script src="lib/select2.full.min.js"></script>
+<script src="src/main.js"></script>
+
+</body>
+</html>
