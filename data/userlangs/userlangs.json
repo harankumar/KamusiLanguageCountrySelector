@@ -1,0 +1,2382 @@
+[
+  {
+    "code": "aar",
+    "name": "ʿAfár "
+  },
+  {
+    "code": "aar",
+    "name": " Qafar"
+  },
+  {
+    "code": "abk",
+    "name": "аҧсуа бызшәа "
+  },
+  {
+    "code": "abk",
+    "name": " Абхазо"
+  },
+  {
+    "code": "abq",
+    "name": "абаза бызшва"
+  },
+  {
+    "code": "abv",
+    "name": "البَحْرينيَة"
+  },
+  {
+    "code": "ada",
+    "name": "adangbɛ"
+  },
+  {
+    "code": "ady",
+    "name": "адыгэбзэ"
+  },
+  {
+    "code": "afr",
+    "name": "Afrikaans"
+  },
+  {
+    "code": "ahk",
+    "name": "Aˬkaˬ"
+  },
+  {
+    "code": "ain",
+    "name": "アイヌ イタク"
+  },
+  {
+    "code": "aka",
+    "name": "twi "
+  },
+  {
+    "code": "aka",
+    "name": " akana"
+  },
+  {
+    "code": "ale",
+    "name": "Unangam tunuu"
+  },
+  {
+    "code": "aln",
+    "name": "Shqipe "
+  },
+  {
+    "code": "aln",
+    "name": " Shqip "
+  },
+  {
+    "code": "aln",
+    "name": " gjuha shqipe"
+  },
+  {
+    "code": "alt",
+    "name": "алтай тил"
+  },
+  {
+    "code": "amh",
+    "name": "አማርኛ"
+  },
+  {
+    "code": "apw",
+    "name": "Ndéé"
+  },
+  {
+    "code": "arb",
+    "name": "العربية "
+  },
+  {
+    "code": "arb",
+    "name": " اللغة العربية"
+  },
+  {
+    "code": "arg",
+    "name": "aragonés"
+  },
+  {
+    "code": "arn",
+    "name": "Araucano"
+  },
+  {
+    "code": "arp",
+    "name": "Hinono'eitiit"
+  },
+  {
+    "code": "asm",
+    "name": "অসিময়া "
+  },
+  {
+    "code": "asm",
+    "name": " অসমীয়া "
+  },
+  {
+    "code": "asm",
+    "name": " অসমীয়া"
+  },
+  {
+    "code": "ast",
+    "name": "Asturianu"
+  },
+  {
+    "code": "ava",
+    "name": "авар мацІ "
+  },
+  {
+    "code": "ava",
+    "name": " магIарул мацI"
+  },
+  {
+    "code": "ayr",
+    "name": "Aymará "
+  },
+  {
+    "code": "ayr",
+    "name": " aymar aru"
+  },
+  {
+    "code": "azb",
+    "name": "Azərbaycani "
+  },
+  {
+    "code": "azb",
+    "name": " Azəri Türkçəs "
+  },
+  {
+    "code": "azb",
+    "name": " азәри "
+  },
+  {
+    "code": "azb",
+    "name": " Азәрбајҹани"
+  },
+  {
+    "code": "azj",
+    "name": "Azərbaycani "
+  },
+  {
+    "code": "azj",
+    "name": " Azəri Türkçəs "
+  },
+  {
+    "code": "azj",
+    "name": " азәри "
+  },
+  {
+    "code": "azj",
+    "name": " Азәрбајҹани "
+  },
+  {
+    "code": "azj",
+    "name": " азәрбајҹанҹа "
+  },
+  {
+    "code": "azj",
+    "name": " Азәрбајҹан"
+  },
+  {
+    "code": "bak",
+    "name": "башҡортса "
+  },
+  {
+    "code": "bak",
+    "name": " башҡорт теле"
+  },
+  {
+    "code": "bam",
+    "name": "Bamanankan"
+  },
+  {
+    "code": "ban",
+    "name": "basa Bali"
+  },
+  {
+    "code": "bbl",
+    "name": "ბაცბა"
+  },
+  {
+    "code": "bcc",
+    "name": "بلچي"
+  },
+  {
+    "code": "bej",
+    "name": "ﺏﺩﺍﻮﻳﺓ"
+  },
+  {
+    "code": "bel",
+    "name": "Беларуски "
+  },
+  {
+    "code": "bel",
+    "name": " Беларуская мова"
+  },
+  {
+    "code": "bem",
+    "name": "chiBemba "
+  },
+  {
+    "code": "bem",
+    "name": " ichiBemba"
+  },
+  {
+    "code": "ben",
+    "name": "বাংলা"
+  },
+  {
+    "code": "bgn",
+    "name": "بلچي"
+  },
+  {
+    "code": "bgp",
+    "name": "بلچي"
+  },
+  {
+    "code": "bho",
+    "name": "भोजपुरी"
+  },
+  {
+    "code": "bis",
+    "name": "Bislama"
+  },
+  {
+    "code": "bku",
+    "name": "ᝊᝓᝑᝒᝇ"
+  },
+  {
+    "code": "bla",
+    "name": "ᑯᖾᖹ "
+  },
+  {
+    "code": "bla",
+    "name": "  ᖿᐟᖻᐟ "
+  },
+  {
+    "code": "bla",
+    "name": "  ᓱᖽᐧᖿ"
+  },
+  {
+    "code": "bod",
+    "name": "བོད་སྐད་ "
+  },
+  {
+    "code": "bod",
+    "name": " བོད་ཡིག "
+  },
+  {
+    "code": "bod",
+    "name": " བོད་སྐད་"
+  },
+  {
+    "code": "bos",
+    "name": "Bošnjački "
+  },
+  {
+    "code": "bos",
+    "name": " Bosanski"
+  },
+  {
+    "code": "bre",
+    "name": "ar Brezhoneg"
+  },
+  {
+    "code": "btd",
+    "name": "Batak Dairi"
+  },
+  {
+    "code": "bts",
+    "name": "Batak Simalungun"
+  },
+  {
+    "code": "bug",
+    "name": "ᨅᨔ ᨕᨘᨁᨗ"
+  },
+  {
+    "code": "bul",
+    "name": "Български "
+  },
+  {
+    "code": "bul",
+    "name": " български език"
+  },
+  {
+    "code": "bxr",
+    "name": "буряад хэлэн"
+  },
+  {
+    "code": "byn",
+    "name": "ብሊን"
+  },
+  {
+    "code": "c.a",
+    "name": "El-Afrihili"
+  },
+  {
+    "code": "c.j",
+    "name": "lojban"
+  },
+  {
+    "code": "c.s",
+    "name": "Slovio "
+  },
+  {
+    "code": "c.s",
+    "name": " Slovio mezxunarodju jazika"
+  },
+  {
+    "code": "c.t",
+    "name": " "
+  },
+  {
+    "code": "c.t",
+    "name": "toki pona"
+  },
+  {
+    "code": "c.v",
+    "name": "Volapük"
+  },
+  {
+    "code": "c.w",
+    "name": "Wenedyk"
+  },
+  {
+    "code": "cat",
+    "name": "Català"
+  },
+  {
+    "code": "cay",
+    "name": "Goyogo̱hó:nǫ’"
+  },
+  {
+    "code": "ccx",
+    "name": "Saw cuengh "
+  },
+  {
+    "code": "ccx",
+    "name": " Saɯ cueŋƅ"
+  },
+  {
+    "code": "ceb",
+    "name": "Sinugboanon "
+  },
+  {
+    "code": "ceb",
+    "name": " Sugboanon "
+  },
+  {
+    "code": "ceb",
+    "name": " Bisayocebuano"
+  },
+  {
+    "code": "ces",
+    "name": "Čeština "
+  },
+  {
+    "code": "ces",
+    "name": " Česky"
+  },
+  {
+    "code": "cha",
+    "name": "Chamoru"
+  },
+  {
+    "code": "che",
+    "name": "Нохчийн "
+  },
+  {
+    "code": "che",
+    "name": " Нохчийн мотт "
+  },
+  {
+    "code": "che",
+    "name": " noxУЇiyn mott"
+  },
+  {
+    "code": "chg",
+    "name": "جغتای"
+  },
+  {
+    "code": "chk",
+    "name": "Chuk"
+  },
+  {
+    "code": "chn",
+    "name": "Chinook Wawa"
+  },
+  {
+    "code": "cho",
+    "name": "Chahta Anumpa"
+  },
+  {
+    "code": "chp",
+    "name": "ᑌᓀᓲᒢᕄᓀ "
+  },
+  {
+    "code": "chp",
+    "name": " Dëne Sųłiné"
+  },
+  {
+    "code": "chr",
+    "name": "ᏣᎳᎩ"
+  },
+  {
+    "code": "chu",
+    "name": "ѩзыкъ словѣньскъ"
+  },
+  {
+    "code": "chv",
+    "name": "чӑваш чӗлхи"
+  },
+  {
+    "code": "chy",
+    "name": "Tsétsêhéstâhese "
+  },
+  {
+    "code": "chy",
+    "name": " Tsitsistas "
+  },
+  {
+    "code": "chy",
+    "name": " Etsėhesenestse "
+  },
+  {
+    "code": "chy",
+    "name": " Tsêhést"
+  },
+  {
+    "code": "ciw",
+    "name": "ᐊᓂᔑᓇᐯ "
+  },
+  {
+    "code": "ciw",
+    "name": " ᐊᓂᔑᓇᐯᒧᐏᐣ "
+  },
+  {
+    "code": "ciw",
+    "name": " ᐅᒋᐺᒧᐎᓐ"
+  },
+  {
+    "code": "ckb",
+    "name": "كوردي "
+  },
+  {
+    "code": "ckb",
+    "name": " kurdî "
+  },
+  {
+    "code": "ckb",
+    "name": " Kurdí "
+  },
+  {
+    "code": "ckb",
+    "name": " کوردی "
+  },
+  {
+    "code": "ckb",
+    "name": " к’öрди"
+  },
+  {
+    "code": "cmn",
+    "name": "简体中文 "
+  },
+  {
+    "code": "cmn",
+    "name": " 普通话"
+  },
+  {
+    "code": "cmn",
+    "name": "繁體中文 "
+  },
+  {
+    "code": "cmn",
+    "name": " 國語"
+  },
+  {
+    "code": "com",
+    "name": "numu tekwapu"
+  },
+  {
+    "code": "cop",
+    "name": "μετν̀ρεμν̀χημι"
+  },
+  {
+    "code": "cor",
+    "name": "Kernewek "
+  },
+  {
+    "code": "cor",
+    "name": " Kernowek "
+  },
+  {
+    "code": "cor",
+    "name": " Kernuak "
+  },
+  {
+    "code": "cor",
+    "name": " Curnoack"
+  },
+  {
+    "code": "cos",
+    "name": "Corsu"
+  },
+  {
+    "code": "crh",
+    "name": "Къырым татар"
+  },
+  {
+    "code": "crj",
+    "name": "ᓀᐦᔭᐤ "
+  },
+  {
+    "code": "crj",
+    "name": " ᓂᐦᔭᐘᒃ "
+  },
+  {
+    "code": "crj",
+    "name": " ᓀᐦᐃᔭᐍᐏᐣ"
+  },
+  {
+    "code": "csb",
+    "name": "kaszëbsczi jãzëk"
+  },
+  {
+    "code": "cym",
+    "name": "Cymraeg "
+  },
+  {
+    "code": "cym",
+    "name": " Y Gymraeg"
+  },
+  {
+    "code": "dan",
+    "name": "Dansk"
+  },
+  {
+    "code": "dar",
+    "name": "дарган мез"
+  },
+  {
+    "code": "ddo",
+    "name": "цез мец"
+  },
+  {
+    "code": "deu",
+    "name": "Deutsch "
+  },
+  {
+    "code": "deu",
+    "name": " Deutsche"
+  },
+  {
+    "code": "dgo",
+    "name": "डोगरी"
+  },
+  {
+    "code": "dik",
+    "name": "Thuɔŋjäŋ"
+  },
+  {
+    "code": "div",
+    "name": "ދިވެހި "
+  },
+  {
+    "code": "div",
+    "name": " ދިވެހިބަސް"
+  },
+  {
+    "code": "dng",
+    "name": "хуэйзў йүян "
+  },
+  {
+    "code": "dng",
+    "name": " лохуэй"
+  },
+  {
+    "code": "dsb",
+    "name": "dolnoserbski"
+  },
+  {
+    "code": "dzo",
+    "name": "རྫོང་ཁ"
+  },
+  {
+    "code": "ell",
+    "name": "Ελληνικά "
+  },
+  {
+    "code": "ell",
+    "name": " Ἑλληνικά"
+  },
+  {
+    "code": "eml",
+    "name": "emiliân e rumagnōl"
+  },
+  {
+    "code": "eng",
+    "name": "English"
+  },
+  {
+    "code": "eng",
+    "name": "British English"
+  },
+  {
+    "code": "eng",
+    "name": "American English"
+  },
+  {
+    "code": "epo",
+    "name": "Esperanto "
+  },
+  {
+    "code": "epo",
+    "name": " La lingvo internacia"
+  },
+  {
+    "code": "esk",
+    "name": "Inupiatun"
+  },
+  {
+    "code": "est",
+    "name": "Eesti "
+  },
+  {
+    "code": "est",
+    "name": " Eesti keel"
+  },
+  {
+    "code": "eus",
+    "name": "Euskara"
+  },
+  {
+    "code": "ewe",
+    "name": "Ɛʋɛ "
+  },
+  {
+    "code": "ewe",
+    "name": " Éwé "
+  },
+  {
+    "code": "ewe",
+    "name": " Eʋegbe"
+  },
+  {
+    "code": "ewo",
+    "name": "Ewondo"
+  },
+  {
+    "code": "fao",
+    "name": "Føroyskt "
+  },
+  {
+    "code": "fao",
+    "name": " Føroyska"
+  },
+  {
+    "code": "fij",
+    "name": "Vakaviti "
+  },
+  {
+    "code": "fij",
+    "name": " vosa Vakaviti"
+  },
+  {
+    "code": "fil",
+    "name": "Filipino"
+  },
+  {
+    "code": "fin",
+    "name": "Suomi "
+  },
+  {
+    "code": "fin",
+    "name": " suomen kieli"
+  },
+  {
+    "code": "fon",
+    "name": "fongbe "
+  },
+  {
+    "code": "fon",
+    "name": " fɔngbè"
+  },
+  {
+    "code": "fra",
+    "name": "Français"
+  },
+  {
+    "code": "fra",
+    "name": "Dgèrnésiais"
+  },
+  {
+    "code": "fri",
+    "name": "Frysk"
+  },
+  {
+    "code": "frr",
+    "name": "Noordfreesk "
+  },
+  {
+    "code": "frr",
+    "name": " Nordfrasch "
+  },
+  {
+    "code": "frr",
+    "name": " Nordfriisk "
+  },
+  {
+    "code": "frr",
+    "name": " Nuurdfresk "
+  },
+  {
+    "code": "frr",
+    "name": " Nuurdfriisk"
+  },
+  {
+    "code": "fur",
+    "name": "Furlan "
+  },
+  {
+    "code": "fur",
+    "name": " marilenghe"
+  },
+  {
+    "code": "fuv",
+    "name": "Fulfulde"
+  },
+  {
+    "code": "gaa",
+    "name": "Gã"
+  },
+  {
+    "code": "gax",
+    "name": "Oromoo"
+  },
+  {
+    "code": "gaz",
+    "name": "Oromoo"
+  },
+  {
+    "code": "gcf",
+    "name": "Kreyòl"
+  },
+  {
+    "code": "gez",
+    "name": "ግዕዝኛ"
+  },
+  {
+    "code": "gil",
+    "name": "Ikiribati "
+  },
+  {
+    "code": "gil",
+    "name": " Kiribati "
+  },
+  {
+    "code": "gil",
+    "name": " taetae ni Kiribati"
+  },
+  {
+    "code": "gla",
+    "name": "Gàidhlig "
+  },
+  {
+    "code": "gla",
+    "name": " Gàidhlig na h-Alba "
+  },
+  {
+    "code": "gla",
+    "name": " a' Ghàidhlig"
+  },
+  {
+    "code": "gle",
+    "name": "Gaeilge "
+  },
+  {
+    "code": "gle",
+    "name": " Gaeilge na hÉireann "
+  },
+  {
+    "code": "gle",
+    "name": " Gaedhlaing "
+  },
+  {
+    "code": "gle",
+    "name": " Gaolainn "
+  },
+  {
+    "code": "gle",
+    "name": " Gaedhilge"
+  },
+  {
+    "code": "glg",
+    "name": "Galego"
+  },
+  {
+    "code": "glv",
+    "name": "Gaelg "
+  },
+  {
+    "code": "glv",
+    "name": " Gaelg Vannin "
+  },
+  {
+    "code": "glv",
+    "name": " Gailck "
+  },
+  {
+    "code": "glv",
+    "name": " Vanninagh "
+  },
+  {
+    "code": "glv",
+    "name": " Yn Ghaelg "
+  },
+  {
+    "code": "glv",
+    "name": " Y Ghailck"
+  },
+  {
+    "code": "got",
+    "name": "𐌲𐌿𐍄𐌰𐍂𐌰𐌶𐌳𐌰"
+  },
+  {
+    "code": "gug",
+    "name": "Avañe'ẽ"
+  },
+  {
+    "code": "guj",
+    "name": "ગુજરાતી"
+  },
+  {
+    "code": "gxx",
+    "name": "Kru"
+  },
+  {
+    "code": "hae",
+    "name": "Oromoo"
+  },
+  {
+    "code": "hak",
+    "name": "客家话 "
+  },
+  {
+    "code": "hak",
+    "name": " 𠊎话"
+  },
+  {
+    "code": "hat",
+    "name": "kreyòl ayisyen"
+  },
+  {
+    "code": "hau",
+    "name": "هَوُسَ "
+  },
+  {
+    "code": "hau",
+    "name": " حَوْسَ"
+  },
+  {
+    "code": "haw",
+    "name": "ʻŌlelo Hawaiʻi"
+  },
+  {
+    "code": "hdn",
+    "name": "Xaad Kil "
+  },
+  {
+    "code": "hdn",
+    "name": " Xaat Kíl"
+  },
+  {
+    "code": "hea",
+    "name": "Kuv tsis has lug Moob tau"
+  },
+  {
+    "code": "heb",
+    "name": "עברית "
+  },
+  {
+    "code": "heb",
+    "name": " עִבְרִית"
+  },
+  {
+    "code": "her",
+    "name": "otshiherero "
+  },
+  {
+    "code": "her",
+    "name": " otjiherero"
+  },
+  {
+    "code": "hil",
+    "name": "Ilongo"
+  },
+  {
+    "code": "hin",
+    "name": "हिनदी "
+  },
+  {
+    "code": "hin",
+    "name": " हिन्दी"
+  },
+  {
+    "code": "hmo",
+    "name": "Hiri Motu"
+  },
+  {
+    "code": "hrv",
+    "name": "Hrvatski"
+  },
+  {
+    "code": "hsb",
+    "name": "hornjoserbsce"
+  },
+  {
+    "code": "hun",
+    "name": "Magyar "
+  },
+  {
+    "code": "hun",
+    "name": " Magyar nyelv"
+  },
+  {
+    "code": "hye",
+    "name": "Հայերէն "
+  },
+  {
+    "code": "hye",
+    "name": " Հայերեն լեզու"
+  },
+  {
+    "code": "ibo",
+    "name": "Igbo"
+  },
+  {
+    "code": "iii",
+    "name": "ꆇꉙ"
+  },
+  {
+    "code": "ike",
+    "name": "ᐃᓄᒃᑎᑐᑦ "
+  },
+  {
+    "code": "ike",
+    "name": " ᐃᓄᒃᑎᑐᑦ ᑎᑎᕋᐅᓯᖅ"
+  },
+  {
+    "code": "ilo",
+    "name": "Ilokano"
+  },
+  {
+    "code": "ina",
+    "name": "Interlingua "
+  },
+  {
+    "code": "ina",
+    "name": " Interlingua de Iala"
+  },
+  {
+    "code": "ind",
+    "name": "Bahasa Indonesia"
+  },
+  {
+    "code": "inh",
+    "name": "ГІалгІай "
+  },
+  {
+    "code": "inh",
+    "name": " гӀалгӀайн мотт"
+  },
+  {
+    "code": "isl",
+    "name": "Íslenska "
+  },
+  {
+    "code": "isl",
+    "name": " Íslenzku"
+  },
+  {
+    "code": "ita",
+    "name": "Italiano"
+  },
+  {
+    "code": "ium",
+    "name": "anh-mienh"
+  },
+  {
+    "code": "jav",
+    "name": "basa Jawa"
+  },
+  {
+    "code": "jpn",
+    "name": "日本語"
+  },
+  {
+    "code": "kaa",
+    "name": "ҝараҝалпаҝ "
+  },
+  {
+    "code": "kaa",
+    "name": " қарақалпақ тили"
+  },
+  {
+    "code": "kab",
+    "name": "Taqbaylit "
+  },
+  {
+    "code": "kab",
+    "name": " ثاقبايليث"
+  },
+  {
+    "code": "kac",
+    "name": "Kachin"
+  },
+  {
+    "code": "kal",
+    "name": "Kalaallisut "
+  },
+  {
+    "code": "kal",
+    "name": " kalaallit oqaasii"
+  },
+  {
+    "code": "kan",
+    "name": "ಕನ್ನಡ "
+  },
+  {
+    "code": "kan",
+    "name": " ಕನ್ನಡ"
+  },
+  {
+    "code": "kas",
+    "name": "कश्मीरी "
+  },
+  {
+    "code": "kas",
+    "name": " كشم "
+  },
+  {
+    "code": "kas",
+    "name": " कॉशुर "
+  },
+  {
+    "code": "kas",
+    "name": " كٲشُر"
+  },
+  {
+    "code": "kat",
+    "name": "ქართული "
+  },
+  {
+    "code": "kat",
+    "name": " ქართული ენა"
+  },
+  {
+    "code": "kaz",
+    "name": "Қазақ "
+  },
+  {
+    "code": "kaz",
+    "name": " қазақша "
+  },
+  {
+    "code": "kaz",
+    "name": " Қазақ тілі "
+  },
+  {
+    "code": "kaz",
+    "name": " Qazaq tili "
+  },
+  {
+    "code": "kaz",
+    "name": " قازاق ٴتىلى"
+  },
+  {
+    "code": "kbd",
+    "name": "къэбэрдеибзэ"
+  },
+  {
+    "code": "kea",
+    "name": "Kabuverdianu"
+  },
+  {
+    "code": "kha",
+    "name": "Khasi"
+  },
+  {
+    "code": "khk",
+    "name": "Монгол хэл "
+  },
+  {
+    "code": "khk",
+    "name": " ᠮᠣᠨᠬᠣᠣᠷ "
+  },
+  {
+    "code": "khk",
+    "name": " Монголоор "
+  },
+  {
+    "code": "khk",
+    "name": " Монгол"
+  },
+  {
+    "code": "khm",
+    "name": "ភាសាខ្មែរ "
+  },
+  {
+    "code": "khm",
+    "name": " ខ្មែរ "
+  },
+  {
+    "code": "khm",
+    "name": " ភាសាវឧួរ"
+  },
+  {
+    "code": "kik",
+    "name": "Gikũyũ"
+  },
+  {
+    "code": "kin",
+    "name": "kinyaRwanda "
+  },
+  {
+    "code": "kin",
+    "name": " Ikinyarwanda"
+  },
+  {
+    "code": "kir",
+    "name": "Кыргыз "
+  },
+  {
+    "code": "kir",
+    "name": " кыргызча "
+  },
+  {
+    "code": "kir",
+    "name": " кыргыз тили"
+  },
+  {
+    "code": "kmr",
+    "name": "kurmancî "
+  },
+  {
+    "code": "kmr",
+    "name": " kurdî"
+  },
+  {
+    "code": "knc",
+    "name": "kanuri"
+  },
+  {
+    "code": "kng",
+    "name": "kiKongo"
+  },
+  {
+    "code": "knn",
+    "name": "कोंकणी "
+  },
+  {
+    "code": "knn",
+    "name": " ಕಒಂಕಣಇ"
+  },
+  {
+    "code": "koi",
+    "name": "коми-пермяцкӧй кыв"
+  },
+  {
+    "code": "kor",
+    "name": "한국어 "
+  },
+  {
+    "code": "kor",
+    "name": " 韓國語"
+  },
+  {
+    "code": "kos",
+    "name": "Kosrae"
+  },
+  {
+    "code": "kpv",
+    "name": "коми кыв"
+  },
+  {
+    "code": "krc",
+    "name": "тилкъарачай-малкъар "
+  },
+  {
+    "code": "krc",
+    "name": " къарачай-малкъар тил"
+  },
+  {
+    "code": "kua",
+    "name": "oshikwanyama "
+  },
+  {
+    "code": "kua",
+    "name": " kuanyama"
+  },
+  {
+    "code": "kum",
+    "name": "къумукъ тил"
+  },
+  {
+    "code": "lad",
+    "name": "ג'ודיאו‮–‬איספאניי"
+  },
+  {
+    "code": "lam",
+    "name": "ChiLamba"
+  },
+  {
+    "code": "lao",
+    "name": "ລາວ "
+  },
+  {
+    "code": "lao",
+    "name": " ພາສາລາວ"
+  },
+  {
+    "code": "lat",
+    "name": "Latine "
+  },
+  {
+    "code": "lat",
+    "name": " Lingua latina"
+  },
+  {
+    "code": "lav",
+    "name": "Latviešu "
+  },
+  {
+    "code": "lav",
+    "name": " Latviski "
+  },
+  {
+    "code": "lav",
+    "name": " latviešu valoda"
+  },
+  {
+    "code": "lez",
+    "name": "лезги чІал"
+  },
+  {
+    "code": "lhu",
+    "name": "Laˬhuˍ"
+  },
+  {
+    "code": "lij",
+    "name": "Líggűre "
+  },
+  {
+    "code": "lij",
+    "name": " zeneize "
+  },
+  {
+    "code": "lij",
+    "name": " zeneisei"
+  },
+  {
+    "code": "lim",
+    "name": "Lèmburgs "
+  },
+  {
+    "code": "lim",
+    "name": " Limburgs Plat"
+  },
+  {
+    "code": "lin",
+    "name": "lingara "
+  },
+  {
+    "code": "lin",
+    "name": " lingála"
+  },
+  {
+    "code": "lis",
+    "name": "Li-su"
+  },
+  {
+    "code": "lit",
+    "name": "Lietuviškai "
+  },
+  {
+    "code": "lit",
+    "name": " Lietuviskai "
+  },
+  {
+    "code": "lit",
+    "name": " Lietuvos "
+  },
+  {
+    "code": "lit",
+    "name": " Lietuvių kalba "
+  },
+  {
+    "code": "lit",
+    "name": " Lietuvių"
+  },
+  {
+    "code": "lkt",
+    "name": "Lakhota"
+  },
+  {
+    "code": "lmo",
+    "name": "Lumbaart "
+  },
+  {
+    "code": "lmo",
+    "name": " lengua lumbarda"
+  },
+  {
+    "code": "loz",
+    "name": "siLozi"
+  },
+  {
+    "code": "ltz",
+    "name": "Lëtzebuergesch"
+  },
+  {
+    "code": "lub",
+    "name": "tshiluba"
+  },
+  {
+    "code": "lue",
+    "name": "chiLuvale"
+  },
+  {
+    "code": "lug",
+    "name": "luGanda "
+  },
+  {
+    "code": "lug",
+    "name": " LùGáànda"
+  },
+  {
+    "code": "lun",
+    "name": "chiLunda"
+  },
+  {
+    "code": "luo",
+    "name": "Dholuo"
+  },
+  {
+    "code": "lzz",
+    "name": "ლაზური ნენა "
+  },
+  {
+    "code": "lzz",
+    "name": " Lazuri nena"
+  },
+  {
+    "code": "mah",
+    "name": "ri-Majōl "
+  },
+  {
+    "code": "mah",
+    "name": " kajin Majōl "
+  },
+  {
+    "code": "mah",
+    "name": " Ebon"
+  },
+  {
+    "code": "mai",
+    "name": "मैथिली"
+  },
+  {
+    "code": "mal",
+    "name": "മലയാളം"
+  },
+  {
+    "code": "mar",
+    "name": "मराठी"
+  },
+  {
+    "code": "mas",
+    "name": "Maa "
+  },
+  {
+    "code": "mas",
+    "name": " ɔl Maa"
+  },
+  {
+    "code": "mdf",
+    "name": "мокшень кяль"
+  },
+  {
+    "code": "mhr",
+    "name": "марий "
+  },
+  {
+    "code": "mhr",
+    "name": " марий йылме"
+  },
+  {
+    "code": "mic",
+    "name": "Míkmaw"
+  },
+  {
+    "code": "mkd",
+    "name": "Македонски "
+  },
+  {
+    "code": "mkd",
+    "name": " македонски јазик"
+  },
+  {
+    "code": "mlt",
+    "name": "bil-Malti "
+  },
+  {
+    "code": "mlt",
+    "name": " Malti"
+  },
+  {
+    "code": "mly",
+    "name": "Bahasa Melayu"
+  },
+  {
+    "code": "mni",
+    "name": "बिष्नुप्रीय मणिपुरी"
+  },
+  {
+    "code": "mns",
+    "name": "Маньси"
+  },
+  {
+    "code": "moh",
+    "name": "Kanien'keha"
+  },
+  {
+    "code": "mos",
+    "name": "Mòoré"
+  },
+  {
+    "code": "mri",
+    "name": "te reo Māori"
+  },
+  {
+    "code": "mrj",
+    "name": "марий йылме"
+  },
+  {
+    "code": "mus",
+    "name": "Maskoki "
+  },
+  {
+    "code": "mus",
+    "name": " Mvskokē empunakv"
+  },
+  {
+    "code": "mwl",
+    "name": "Mirandesa "
+  },
+  {
+    "code": "mwl",
+    "name": " Miranda do Douro "
+  },
+  {
+    "code": "mwl",
+    "name": " lhéngua mirandesa"
+  },
+  {
+    "code": "mya",
+    "name": "မ္ရန္မာ "
+  },
+  {
+    "code": "mya",
+    "name": " ဗမာစကား"
+  },
+  {
+    "code": "myv",
+    "name": "эрзянь кель"
+  },
+  {
+    "code": "nan",
+    "name": "台文 "
+  },
+  {
+    "code": "nan",
+    "name": " 台語 "
+  },
+  {
+    "code": "nan",
+    "name": " 台灣話"
+  },
+  {
+    "code": "nap",
+    "name": "Napolitano"
+  },
+  {
+    "code": "naq",
+    "name": "Namagowab"
+  },
+  {
+    "code": "nau",
+    "name": "Ekakairũ Naoero"
+  },
+  {
+    "code": "nav",
+    "name": "Diné "
+  },
+  {
+    "code": "nav",
+    "name": " Diné bizaad "
+  },
+  {
+    "code": "nav",
+    "name": " Dinék'ehjí"
+  },
+  {
+    "code": "nbl",
+    "name": "isiNdebele"
+  },
+  {
+    "code": "nde",
+    "name": "isiNdebele"
+  },
+  {
+    "code": "ndo",
+    "name": "oshindonga "
+  },
+  {
+    "code": "ndo",
+    "name": " owambo"
+  },
+  {
+    "code": "nds",
+    "name": "Plattdüütsch "
+  },
+  {
+    "code": "nds",
+    "name": " Nedderdüütsch "
+  },
+  {
+    "code": "nds",
+    "name": " Neddersassisch"
+  },
+  {
+    "code": "nep",
+    "name": "नेपाली"
+  },
+  {
+    "code": "new",
+    "name": "नेपाल भाषा"
+  },
+  {
+    "code": "ngu",
+    "name": "nawatlahtolli "
+  },
+  {
+    "code": "ngu",
+    "name": " nāhuatl"
+  },
+  {
+    "code": "nia",
+    "name": "Li Niha"
+  },
+  {
+    "code": "niu",
+    "name": "faka-Niue "
+  },
+  {
+    "code": "niu",
+    "name": " ko e vagahau Niuē"
+  },
+  {
+    "code": "nld",
+    "name": "Nederlands"
+  },
+  {
+    "code": "nno",
+    "name": "norsk "
+  },
+  {
+    "code": "nno",
+    "name": " norsk nynorsk "
+  },
+  {
+    "code": "nno",
+    "name": " nynorsk"
+  },
+  {
+    "code": "nob",
+    "name": "Norsk "
+  },
+  {
+    "code": "nob",
+    "name": " Norsk bokmål "
+  },
+  {
+    "code": "nob",
+    "name": " Bokmål"
+  },
+  {
+    "code": "nog",
+    "name": "ногай тили"
+  },
+  {
+    "code": "nso",
+    "name": "sePêdi"
+  },
+  {
+    "code": "nya",
+    "name": "chiCheŵa "
+  },
+  {
+    "code": "nya",
+    "name": " chinyanja"
+  },
+  {
+    "code": "nym",
+    "name": "kinyamwezi"
+  },
+  {
+    "code": "nyo",
+    "name": "runyoro"
+  },
+  {
+    "code": "ori",
+    "name": "ଓଡ଼ିଆ "
+  },
+  {
+    "code": "ori",
+    "name": " ଓଡ଼ିଆ"
+  },
+  {
+    "code": "osa",
+    "name": "Wazhazhe"
+  },
+  {
+    "code": "oss",
+    "name": "ирон ӕвзаг"
+  },
+  {
+    "code": "otw",
+    "name": "ᐊᓂᔑᓇᐯ "
+  },
+  {
+    "code": "otw",
+    "name": " ᐊᓂᔑᓈᐯ"
+  },
+  {
+    "code": "pam",
+    "name": "Panpango "
+  },
+  {
+    "code": "pam",
+    "name": " amanung kapampangan"
+  },
+  {
+    "code": "pan",
+    "name": "ਪੰਜਾਬੀ "
+  },
+  {
+    "code": "pan",
+    "name": " पंजाबी"
+  },
+  {
+    "code": "pap",
+    "name": "Papiamentu"
+  },
+  {
+    "code": "pau",
+    "name": "tekoi ra Belau"
+  },
+  {
+    "code": "pbt",
+    "name": "پښتو"
+  },
+  {
+    "code": "pbu",
+    "name": "پښتو"
+  },
+  {
+    "code": "pes",
+    "name": "ﯽﺳﺭﺎﻓ "
+  },
+  {
+    "code": "pes",
+    "name": " فارسی "
+  },
+  {
+    "code": "pes",
+    "name": " دری"
+  },
+  {
+    "code": "pli",
+    "name": "पािळ"
+  },
+  {
+    "code": "plt",
+    "name": "Malagasy fiteny"
+  },
+  {
+    "code": "pms",
+    "name": "piemonteis"
+  },
+  {
+    "code": "pnb",
+    "name": "ﺏﺎﺠﻨﭘ "
+  },
+  {
+    "code": "pnb",
+    "name": " پنجابي"
+  },
+  {
+    "code": "pol",
+    "name": "Polski "
+  },
+  {
+    "code": "pol",
+    "name": " język polski "
+  },
+  {
+    "code": "pol",
+    "name": " polszczyzna"
+  },
+  {
+    "code": "por",
+    "name": "Português"
+  },
+  {
+    "code": "por",
+    "name": "Português do Brasil"
+  },
+  {
+    "code": "prs",
+    "name": "ﻯﺭﺩ "
+  },
+  {
+    "code": "prs",
+    "name": " دری"
+  },
+  {
+    "code": "prv",
+    "name": "Occitan"
+  },
+  {
+    "code": "quy",
+    "name": "Runa Simi "
+  },
+  {
+    "code": "quy",
+    "name": " Quechua "
+  },
+  {
+    "code": "quy",
+    "name": " Quichwa"
+  },
+  {
+    "code": "rap",
+    "name": "rapanui "
+  },
+  {
+    "code": "rap",
+    "name": " pepito ote henua"
+  },
+  {
+    "code": "rar",
+    "name": "Māori Kūki 'Āirani "
+  },
+  {
+    "code": "rar",
+    "name": " reo ipukarea"
+  },
+  {
+    "code": "rmc",
+    "name": "Romanes"
+  },
+  {
+    "code": "rmo",
+    "name": "Romani šib"
+  },
+  {
+    "code": "rmy",
+    "name": "Romani"
+  },
+  {
+    "code": "roh",
+    "name": "Rumantsch"
+  },
+  {
+    "code": "ron",
+    "name": "Româneşte "
+  },
+  {
+    "code": "ron",
+    "name": " limba română "
+  },
+  {
+    "code": "ron",
+    "name": " Română"
+  },
+  {
+    "code": "ron",
+    "name": "=ron"
+  },
+  {
+    "code": "run",
+    "name": "kiRundi "
+  },
+  {
+    "code": "run",
+    "name": " íkiRǔndi"
+  },
+  {
+    "code": "rup",
+    "name": "Armãneashti "
+  },
+  {
+    "code": "rup",
+    "name": " Armãneashce "
+  },
+  {
+    "code": "rup",
+    "name": " Rrãmãneasht"
+  },
+  {
+    "code": "rus",
+    "name": "Русский "
+  },
+  {
+    "code": "rus",
+    "name": " русский"
+  },
+  {
+    "code": "sag",
+    "name": "sängö "
+  },
+  {
+    "code": "sag",
+    "name": " Yângâ tî Sängö"
+  },
+  {
+    "code": "sah",
+    "name": "саха тыла"
+  },
+  {
+    "code": "san",
+    "name": "संस्कृत "
+  },
+  {
+    "code": "san",
+    "name": " संस्कृतम् "
+  },
+  {
+    "code": "san",
+    "name": " संस्कृत भाषा"
+  },
+  {
+    "code": "sat",
+    "name": "संथाली"
+  },
+  {
+    "code": "scn",
+    "name": "Sicilianu "
+  },
+  {
+    "code": "scn",
+    "name": " Siculo"
+  },
+  {
+    "code": "sco",
+    "name": "Lallans "
+  },
+  {
+    "code": "sco",
+    "name": " Scoats leid"
+  },
+  {
+    "code": "sdc",
+    "name": "Susardu"
+  },
+  {
+    "code": "sel",
+    "name": "шӧльӄумыт әты "
+  },
+  {
+    "code": "sel",
+    "name": " селькуп"
+  },
+  {
+    "code": "sid",
+    "name": "Sidámo 'Afó"
+  },
+  {
+    "code": "sin",
+    "name": "සිංහල "
+  },
+  {
+    "code": "sin",
+    "name": " ම඿඲ඹල "
+  },
+  {
+    "code": "sin",
+    "name": " සිංහල"
+  },
+  {
+    "code": "slk",
+    "name": "Slovenčina "
+  },
+  {
+    "code": "slk",
+    "name": " Slovensky "
+  },
+  {
+    "code": "slk",
+    "name": " slovenský"
+  },
+  {
+    "code": "slv",
+    "name": "Slovenščina"
+  },
+  {
+    "code": "sma",
+    "name": "åarjelsaemiengïele "
+  },
+  {
+    "code": "sma",
+    "name": " Sámi "
+  },
+  {
+    "code": "sma",
+    "name": " saemien giele"
+  },
+  {
+    "code": "sme",
+    "name": "davvisámegiella "
+  },
+  {
+    "code": "sme",
+    "name": " dávvisámegiella "
+  },
+  {
+    "code": "sme",
+    "name": " Sámi "
+  },
+  {
+    "code": "sme",
+    "name": " sámegiella"
+  },
+  {
+    "code": "smj",
+    "name": "julevusámegiella"
+  },
+  {
+    "code": "smn",
+    "name": "aanaar kielâ "
+  },
+  {
+    "code": "smn",
+    "name": " säämegiella"
+  },
+  {
+    "code": "smo",
+    "name": "Gagana Samoa"
+  },
+  {
+    "code": "sms",
+    "name": "sää'mǩiõll"
+  },
+  {
+    "code": "sna",
+    "name": "chiShona"
+  },
+  {
+    "code": "snd",
+    "name": "سنڗي"
+  },
+  {
+    "code": "snk",
+    "name": "soninkanxaane"
+  },
+  {
+    "code": "som",
+    "name": "Soomaaliga "
+  },
+  {
+    "code": "som",
+    "name": " af Soomaali"
+  },
+  {
+    "code": "sot",
+    "name": "seSotho"
+  },
+  {
+    "code": "spa",
+    "name": "Español "
+  },
+  {
+    "code": "spa",
+    "name": " Castellano"
+  },
+  {
+    "code": "srn",
+    "name": "Sranan"
+  },
+  {
+    "code": "sro",
+    "name": "Susardu"
+  },
+  {
+    "code": "srp",
+    "name": "Српски "
+  },
+  {
+    "code": "srp",
+    "name": " Srpski"
+  },
+  {
+    "code": "ssw",
+    "name": "siSwati"
+  },
+  {
+    "code": "sun",
+    "name": "basa Sunda"
+  },
+  {
+    "code": "swe",
+    "name": "Svenska"
+  },
+  {
+    "code": "swh",
+    "name": "kiSwahili"
+  },
+  {
+    "code": "syc",
+    "name": "ܣܘܪܝܝܐ "
+  },
+  {
+    "code": "syc",
+    "name": " ܠܫܵܢܵܐ ܣܘܪܝܝܐ"
+  },
+  {
+    "code": "tab",
+    "name": "табасаран чIал"
+  },
+  {
+    "code": "tah",
+    "name": "te reo Tahiti "
+  },
+  {
+    "code": "tah",
+    "name": " te reo Māʼohi"
+  },
+  {
+    "code": "tam",
+    "name": "தமிழ்"
+  },
+  {
+    "code": "taq",
+    "name": "تَمَاشَقْ"
+  },
+  {
+    "code": "tat",
+    "name": "Татар "
+  },
+  {
+    "code": "tat",
+    "name": " татарча "
+  },
+  {
+    "code": "tat",
+    "name": " tatar tele "
+  },
+  {
+    "code": "tat",
+    "name": " تاتارچا"
+  },
+  {
+    "code": "tdd",
+    "name": "ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ"
+  },
+  {
+    "code": "tel",
+    "name": "తెలుగు"
+  },
+  {
+    "code": "tet",
+    "name": "tetun "
+  },
+  {
+    "code": "tet",
+    "name": " lia-tetun"
+  },
+  {
+    "code": "tgk",
+    "name": "Таҷикй "
+  },
+  {
+    "code": "tgk",
+    "name": " Таджик "
+  },
+  {
+    "code": "tgk",
+    "name": " тоҷикӣ "
+  },
+  {
+    "code": "tgk",
+    "name": " toçikī "
+  },
+  {
+    "code": "tgk",
+    "name": " تاجيكي"
+  },
+  {
+    "code": "tgl",
+    "name": "Tagalog "
+  },
+  {
+    "code": "tgl",
+    "name": " ᜋᜄ᜔ᜆᜄᜎᜓᜄ᜔"
+  },
+  {
+    "code": "tha",
+    "name": "ไทย "
+  },
+  {
+    "code": "tha",
+    "name": " ภาษาไทย"
+  },
+  {
+    "code": "tig",
+    "name": "ትግረ "
+  },
+  {
+    "code": "tig",
+    "name": " Tigré "
+  },
+  {
+    "code": "tig",
+    "name": " Khasa"
+  },
+  {
+    "code": "tir",
+    "name": "ትግርኛ"
+  },
+  {
+    "code": "tli",
+    "name": "Lingít"
+  },
+  {
+    "code": "tmr",
+    "name": "בְּאַרָמִית "
+  },
+  {
+    "code": "tmr",
+    "name": " לשנא ארמיא"
+  },
+  {
+    "code": "tog",
+    "name": "chiTonga"
+  },
+  {
+    "code": "ton",
+    "name": "faka-Tonga "
+  },
+  {
+    "code": "ton",
+    "name": " lea fakatonga"
+  },
+  {
+    "code": "tpi",
+    "name": "Tok Pisin"
+  },
+  {
+    "code": "tsn",
+    "name": "seTswana"
+  },
+  {
+    "code": "tso",
+    "name": "xiTsonga"
+  },
+  {
+    "code": "tuk",
+    "name": "türkmençe "
+  },
+  {
+    "code": "tuk",
+    "name": " түркmенче "
+  },
+  {
+    "code": "tuk",
+    "name": " түркмен дили"
+  },
+  {
+    "code": "tum",
+    "name": "chiTumbuka"
+  },
+  {
+    "code": "tur",
+    "name": "Türkçe"
+  },
+  {
+    "code": "tvl",
+    "name": "Te 'gana Tūvalu"
+  },
+  {
+    "code": "tyv",
+    "name": "тыва дыл"
+  },
+  {
+    "code": "tzm",
+    "name": "Tamazight"
+  },
+  {
+    "code": "udm",
+    "name": "удмурт кыл"
+  },
+  {
+    "code": "uig",
+    "name": "ﺋۇيغۇر "
+  },
+  {
+    "code": "uig",
+    "name": " Уйғур"
+  },
+  {
+    "code": "ukr",
+    "name": "Українська"
+  },
+  {
+    "code": "unm",
+    "name": "Lënape"
+  },
+  {
+    "code": "urd",
+    "name": "اردو "
+  },
+  {
+    "code": "urd",
+    "name": " اُردو"
+  },
+  {
+    "code": "uzn",
+    "name": "Ўзбек "
+  },
+  {
+    "code": "uzn",
+    "name": " اۉزبېک "
+  },
+  {
+    "code": "uzn",
+    "name": " ўзбек тили"
+  },
+  {
+    "code": "vec",
+    "name": "veneto"
+  },
+  {
+    "code": "ven",
+    "name": "tshiVenḓa"
+  },
+  {
+    "code": "vie",
+    "name": "Tiếng Việt"
+  },
+  {
+    "code": "vls",
+    "name": "Vlaams"
+  },
+  {
+    "code": "vor",
+    "name": "võro kiilʼ"
+  },
+  {
+    "code": "vot",
+    "name": "Vadjaa tšeeli"
+  },
+  {
+    "code": "wal",
+    "name": "ወላይታቱ"
+  },
+  {
+    "code": "war",
+    "name": "Wáray-Wáray "
+  },
+  {
+    "code": "war",
+    "name": " Winaray"
+  },
+  {
+    "code": "wln",
+    "name": "Walon"
+  },
+  {
+    "code": "wol",
+    "name": "Wollof"
+  },
+  {
+    "code": "x.a",
+    "name": "akkadû"
+  },
+  {
+    "code": "x.c",
+    "name": "文言"
+  },
+  {
+    "code": "x.n",
+    "name": "norskr"
+  },
+  {
+    "code": "xal",
+    "name": "хальмг келн"
+  },
+  {
+    "code": "xho",
+    "name": "isiXhosa"
+  },
+  {
+    "code": "xsl",
+    "name": "ᑌᓀ ᒐ"
+  },
+  {
+    "code": "xwg",
+    "name": "ייִדיש "
+  },
+  {
+    "code": "xwg",
+    "name": " ײִדיש "
+  },
+  {
+    "code": "xwg",
+    "name": " מאַמע לשון"
+  },
+  {
+    "code": "yao",
+    "name": "chiYao"
+  },
+  {
+    "code": "yor",
+    "name": "Yorùbá"
+  },
+  {
+    "code": "yue",
+    "name": "粤语 "
+  },
+  {
+    "code": "yue",
+    "name": " 广东话"
+  },
+  {
+    "code": "yue",
+    "name": "粵語 "
+  },
+  {
+    "code": "yue",
+    "name": " 廣東話"
+  },
+  {
+    "code": "zam",
+    "name": "Zapoteco"
+  },
+  {
+    "code": "zne",
+    "name": "paZande"
+  },
+  {
+    "code": "zul",
+    "name": "isiZulu"
+  },
+  {
+    "code": "zun",
+    "name": "Shiwi"
+  }
+]
