@@ -11,7 +11,7 @@
 var userlangSelector;
 
 // sets langs[0] as the default language if user hasn't done anything yet
-// langs are ISO 693-3 codes, in order of preference (first is preferred)
+// langs are ISO 639-3 codes, in order of preference (first is preferred)
 function setDefaultUserLangs(langs) {
     var el;
     // Put all the langs in the selector, in the user's order of preference
