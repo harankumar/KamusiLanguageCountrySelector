@@ -8,8 +8,18 @@
 </head>
 
 <body>
+<style>
+    select {
+        width: 50%;
+    }
+
+    .select2 {
+        margin: 15px;
+    }
+</style>
 
 <!--BIG TODO: localize label text... how do I do that? -->
+<!--TODO: make them less ugly-->
 
 <!--note: this is ugly but will be less ugly once its in a library format -->
 
@@ -17,7 +27,7 @@
     User Language
 </label>
 <select name="kamusi-userlang" id="kamusi-userlang">
-    <!--value is the ISO 693-3 code,
+    <!--value is the ISO 639-3 code,
         text is the language's name for itself-->
     <!--this should be loaded automatically, without user input
         the default value will be guessed based on HTTP Headers-->
@@ -30,7 +40,7 @@
 
 <label for="kamusi-langname">Language Name</label>
 <select name="kamusi-langname" id="kamusi-langname">
-    <!--value is the ISO 693-3 code,
+    <!--value is the ISO 639-3 code,
         text is the langname in the userlang-->
     <!--TODO: change text based on userlang-->
     <option value="eng">English</option>
