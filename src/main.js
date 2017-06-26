@@ -15,17 +15,15 @@ function loadLangNames(code) {
     $.ajax("https://kamusi-cls-backend.herokuapp.com/langnames/" + code, {
         success: function (response) {
             var langdata = JSON.parse(response)
-            console.log(langdata)
             langnameSelector
                 .html('')
                 .select2('data', null)
-            console.log('reset')
             if (langdata[0] && langdata[0].id){
-                console.log("loading data")
                 langnameSelector.select2({
                     data: langdata
                 })
-                console.log('data loaded')
+                langnameSelector.children('option[value="'+ code +'"]').prop("selected", "selected")
+                langnameSelector.trigger('change')
             }
         },
         error: function (data) {
