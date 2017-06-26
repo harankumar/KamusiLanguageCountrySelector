@@ -1,13 +1,3 @@
-// TODO: (long run) -- reduce dependencies
-// TODO: pull this out into a library form
-// TODO: get stuff out of global scope (prior to publication)
-// TODO: provide utilities to convert between ISO codes and names
-// TODO: divide up functionality into multiple files
-// TODO: add color wheels
-// TODO: cache data so it's faster
-// TODO: dev can choose which langnames to show
-// TODO: right align languages e.g. arabic
-
 // avoid duplicate selectors
 var userlangSelector, langnameSelector
 
@@ -27,7 +17,6 @@ function loadLangNames(code) {
             }
         },
         error: function (data) {
-            // TODO -- move up to macrolang
             loadLangNames("eng")
         }
     })
