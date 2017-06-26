@@ -1,5 +1,5 @@
 // avoid duplicate selectors
-var userlangSelector, langnameSelector
+var userlangSelector, langnameSelector, countrySelector
 
 function loadLangNames(code) {
     $.ajax("https://kamusi-cls-backend.herokuapp.com/langnames/" + code, {
@@ -14,6 +14,27 @@ function loadLangNames(code) {
                 })
                 langnameSelector.children('option[value="'+ code +'"]').prop("selected", "selected")
                 langnameSelector.trigger('change')
+            }
+        },
+        error: function (data) {
+            loadLangNames("eng")
+        }
+    })
+}
+
+function loadCountryNames(code){
+    $.ajax("https://kamusi-cls-backend.herokuapp.com/territories/" + code, {
+        success: function (response) {
+            var countryData = JSON.parse(response)
+            countrySelector
+                .html('')
+                .select2('data', null)
+            if (countryData[0] && countryData[0].id){
+                countrySelector.select2({
+                    data: countryData
+                })
+                countrySelector.children('option[value="'+ code +'"]').prop("selected", "selected")
+                countrySelector.trigger('change')
             }
         },
         error: function (data) {
@@ -48,18 +69,20 @@ $(document).ready(function () {
             }
         }
     })
+    userlangSelector.change(function (e) {
+        loadLangNames(userlangSelector.val())
+        loadCountryNames(userlangSelector.val())
+    })
 
     // initialize langname selector
     langnameSelector = $('#kamusi-langname')
     langnameSelector.select2()
     //loadLangNames("eng")
-    userlangSelector.change(function (e) {
-        loadLangNames(userlangSelector.val())
-    })
 
     // load with default values
 
 
-    // TODO: this line won't exist when the program is all finished
-    $("#kamusi-country").select2()
+    // initialize country selector
+    countrySelector = $("#kamusi-country")
+    countrySelector.select2()
 })
