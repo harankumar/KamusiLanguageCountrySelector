@@ -38,7 +38,7 @@ function loadCountryNames(code){
             }
         },
         error: function (data) {
-            loadLangNames("eng")
+            loadCountryNames("eng")
         }
     })
 }
