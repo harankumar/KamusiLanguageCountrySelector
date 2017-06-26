@@ -25,7 +25,7 @@ $(document).ready(function () {
     userlangSelector.select2({
         ajax: {
             url: function(params){
-                return 'https://kamusi-cls-backend.herokuapp.com/' + (params.term || "")
+                return 'https://kamusi-cls-backend.herokuapp.com/userlangs/' + (params.term || "")
             },
             dataType: 'json',
             delay: 20,
