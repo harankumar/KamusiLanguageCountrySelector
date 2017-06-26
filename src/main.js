@@ -73,6 +73,23 @@ $(document).ready(function () {
         loadLangNames(userlangSelector.val())
         loadCountryNames(userlangSelector.val())
     })
+    $.ajax("https://kamusi-cls-backend.herokuapp.com/userlangs/", {
+        success: function(data){
+            var ret = []
+            for (var i = 0; i < data.length; i++) {
+                for (var j = 0; j < data[i].text.length; j++) {
+                    ret.push({text: data[i].text[j], id: data[i].id})
+                }
+            }
+            userlangSelector.select2({
+                data: ret
+            })
+            userlangSelector.trigger('change')
+        },
+        error: function(err){
+            throw err
+        }
+    })
 
     // initialize langname selector
     langnameSelector = $('#kamusi-langname')
