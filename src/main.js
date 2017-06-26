@@ -19,10 +19,14 @@ function loadLangNames(code) {
             langnameSelector
                 .html('')
                 .select2('data', null)
-            langnameSelector.select2({
-                data: langdata
-            })
-            //langnameSelector.trigger('change')
+            console.log('reset')
+            if (langdata[0] && langdata[0].id){
+                console.log("loading data")
+                langnameSelector.select2({
+                    data: langdata
+                })
+                console.log('data loaded')
+            }
         },
         error: function (data) {
             // TODO -- move up to macrolang
