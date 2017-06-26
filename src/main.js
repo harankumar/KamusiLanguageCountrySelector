@@ -4,19 +4,32 @@
 // TODO: provide utilities to convert between ISO codes and names
 // TODO: divide up functionality into multiple files
 // TODO: add color wheels
-
+// TODO: cache data so it's faster
+// TODO: dev can choose which langnames to show
+// TODO: right align languages e.g. arabic
 
 // avoid duplicate selectors
-var userlangSelector
+var userlangSelector, langnameSelector
 
-//function loadLangs(prefix){
-//    $.ajax("https://kamusi-cls-backend.herokuapp.com/" + prefix, {
-//        dataType: "json",
-//        success: function(data){
-//            console.log(data)
-//        }
-//    })
-//}
+function loadLangNames(code) {
+    $.ajax("https://kamusi-cls-backend.herokuapp.com/langnames/" + code, {
+        success: function (response) {
+            var langdata = JSON.parse(response)
+            console.log(langdata)
+            langnameSelector
+                .html('')
+                .select2('data', null)
+            langnameSelector.select2({
+                data: langdata
+            })
+            //langnameSelector.trigger('change')
+        },
+        error: function (data) {
+            // TODO -- move up to macrolang
+            loadLangNames("eng")
+        }
+    })
+}
 
 $(document).ready(function () {
 
@@ -45,9 +58,17 @@ $(document).ready(function () {
         }
     })
 
+    // initialize langname selector
+    langnameSelector = $('#kamusi-langname')
+    langnameSelector.select2()
+    //loadLangNames("eng")
+    userlangSelector.change(function (e) {
+        loadLangNames(userlangSelector.val())
+    })
+
     // load with default values
 
 
     // TODO: this line won't exist when the program is all finished
-    $("#kamusi-country, #kamusi-langname").select2()
+    $("#kamusi-country").select2()
 })
