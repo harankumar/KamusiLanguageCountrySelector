@@ -1,3 +1,24 @@
+var rtlLangs = new Set([
+    "heb",
+    "fas",
+    "mzn",
+    "lrc",
+    "uig",
+    "kas",
+    "urd",
+    "fa_AF",
+    "ara",
+    "yid",
+    "ckb",
+    "pus",
+    "ur_IN",
+    "ar_EG",
+    "ar_LY",
+    "ar_SA",
+    "uz_Arab",
+    "pa_Arab"
+])
+
 // avoid duplicate selectors
 var userlangSelector, langnameSelector, countrySelector
 
@@ -10,7 +31,8 @@ function loadLangNames(code) {
                 .select2('data', null)
             if (langdata[0] && langdata[0].id){
                 langnameSelector.select2({
-                    data: langdata
+                    data: langdata,
+                    dir: rtlLangs.has(code) ? "rtl" : "ltr"
                 })
                 langnameSelector.children('option[value="'+ code +'"]').prop("selected", "selected")
                 langnameSelector.trigger('change')
@@ -31,7 +53,8 @@ function loadCountryNames(code){
                 .select2('data', null)
             if (countryData[0] && countryData[0].id){
                 countrySelector.select2({
-                    data: countryData
+                    data: countryData,
+                    dir: rtlLangs.has(code) ? "rtl" : "ltr"
                 })
                 countrySelector.children('option[value="'+ code +'"]').prop("selected", "selected")
                 countrySelector.trigger('change')
@@ -84,9 +107,14 @@ $(document).ready(function () {
             }
             userlangSelector.select2({
                 data: ret,
-                ajax: userlangAJAX
+                ajax: userlangAJAX,
+                dir: rtlLangs.has(data[0].id) ? "rtl" : "ltr"
             })
             userlangSelector.trigger('change')
+
+            userlangSelector.change(function(){
+                userlangSelector.select2({dir: rtlLangs.has(userlangSelector.val()) ? "rtl" : "ltr"})
+            })
         },
         error: function(err){
             throw err
