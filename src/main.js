@@ -47,27 +47,28 @@ $(document).ready(function () {
 
     // initialize userlang selector
     userlangSelector = $("#kamusi-userlang")
-    userlangSelector.select2({
-        ajax: {
-            url: function (params) {
-                return 'https://kamusi-cls-backend.herokuapp.com/userlangs/' + (params.term || "")
-            },
-            dataType: 'json',
-            delay: 20,
-            processResults: function (data) {
-                var ret = data
-                if (data[0] && typeof data[0].text !== "string") {
-                    ret = []
-                    for (var i = 0; i < data.length; i++) {
-                        for (var j = 0; j < data[i].text.length; j++) {
-                            ret.push({text: data[i].text[j], id: data[i].id})
-                        }
+    var userlangAJAX = {
+        url: function (params) {
+            return 'https://kamusi-cls-backend.herokuapp.com/userlangs/' + (params.term || "")
+        },
+        dataType: 'json',
+        delay: 10,
+        processResults: function (data) {
+            var ret = data
+            if (data[0] && typeof data[0].text !== "string") {
+                ret = []
+                for (var i = 0; i < data.length; i++) {
+                    for (var j = 0; j < data[i].text.length; j++) {
+                        ret.push({text: data[i].text[j], id: data[i].id})
                     }
                 }
-
-                return {results: ret}
             }
+
+            return {results: ret}
         }
+    }
+    userlangSelector.select2({
+        ajax: userlangAJAX
     })
     userlangSelector.change(function (e) {
         loadLangNames(userlangSelector.val())
@@ -82,7 +83,8 @@ $(document).ready(function () {
                 }
             }
             userlangSelector.select2({
-                data: ret
+                data: ret,
+                ajax: userlangAJAX
             })
             userlangSelector.trigger('change')
         },
